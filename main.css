@@ -1,0 +1,12 @@
+
+.padre{  
+   border:20px solid purple;
+   padding:30px;
+   background-color:#F5DA81;
+   margin:20px 5px 20px 5px;
+	}
+.hijo{
+	border:1px dashed green;
+	text-align: center;
+	background-color:white;
+}
